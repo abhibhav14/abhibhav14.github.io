@@ -38,15 +38,15 @@ The quantities are roughly what you need to make three meals worth of sambar ric
 Cooking sambar involves prepping the dal, prepping the vegetables, prepping the tamarind, and putting it all together.
 
 #### Prepping the dal
-Wash the dal a couple of times and soak it for about an hour if possible.
-Put the dal in a pressure cooker with some water, salt, turmeric, and a little bit of oil.
+1. Wash the dal a couple of times and soak it for about an hour if possible.
+2. Put the dal in a pressure cooker with some water, salt, turmeric, and a little bit of oil.
 The amount of water depends on how long the dal was soaked.
 If the dal is not soaked at all, add about three cups of water.
 If it has been soaking for over an hour, you only need enough water to cover the dal by three or four centimeters.
-Pressure cook this dal for about twenty minutes after the first whistle.
-Finally, using a whisk or a spoon, mash all the dal (which should be very soft by this point).
+3. Pressure cook this dal for about twenty minutes after the first whistle.
+4. Finally, using a whisk or a spoon, mash all the dal (which should be very soft by this point).
 Unlike dal (the dish), the dal here needs to completely break apart, which is why it is cooked for so long.
-Chunky dal is the bane of sambar - if the dal is not soft enough to make completely homogenous, pressure cook it for some more time.
+Chunky dal is the bane of sambar - if the dal is not soft enough to make completely homogeneous, pressure cook it for some more time.
 
 
 #### Prepping the vegetables
@@ -61,27 +61,26 @@ However, if the dal is soaked for about six or seven hours, then the dal and veg
 This is what I usually do, unless I am cooking enough sambar for more than five meals.
 
 #### Prepping the tamarind
-Break the tamarind pulp into small pieces, put them in a bowl, and pour some boiling water into the bowl.
-Use a spoon to further loosen up the pieces of the pulp.
+1. Break the tamarind pulp into small pieces, put them in a bowl, and pour some boiling water into the bowl.
+2. Use a spoon to further loosen up the pieces of the pulp.
 Let this sit for twenty or thirty minutes.
-Remove the seeds and the fibres while squeezing out as much pulp as possible.
+3. Remove the seeds and the fibres while squeezing out as much pulp as possible.
 
 #### Putting it all together
-In a pot, add ghee and oil.
+1. In a pot, add ghee and oil.
 Only oil also works, although ghee adds a lot to the flavour.
-When the oil/ghee is hot, add mustard seeds, red chillies and fenugreek seeds.
+2. When the oil/ghee is hot, add mustard seeds, red chillies and fenugreek seeds.
 Fenugreek seeds are extremely bitter, and anyone who has eaten a lot of sambar has experienced biting into one accidentally, so make sure not to use too much, and that the seeds get cooked well.
-Add the curry leaves, and after a few seconds the onions.
+3. Add the curry leaves, and after a few seconds the onions.
 Let the onions cook for a few minutes.
-Once they are transluscent, add about a heaping tablespoon and a half of sambar podi.
-Add some turmeric.
-Depending on the sambar podi, add some red chilli powder and some hing.
-Once the podi has cooked for a couple of minutes, add the prepped tamarind pulp and water, along with a small piece of jaggery, and some coriander stems.
+4. Once they are translucent, add about a heaping tablespoon and a half of sambar podi, and some turmeric.
+Depending on the sambar podi, also add some red chilli powder and some hing.
+5. Once the podi has cooked for a couple of minutes, add the prepped tamarind pulp and water, along with a small piece of jaggery, and some coriander stems.
 Let this cook for about three minutes.
-Add the prepped lentil and vegetables, mix and add salt to taste.
-After the sambar reaches a boil, taste it, and add more sambar podi if required.
+6. Add the prepped dal and vegetables, mix and add salt to taste.
+7. After the sambar reaches a boil, taste it, and add more sambar podi if required.
 The easiest way to add the podi at this stage is to mix it with a little oil in a separate bowl and add the paste.
-At this point the taste of the tamarind should be quite strong, the longer you cook it the milder it gets.
+8. At this point the taste of the tamarind should be quite strong, the longer you cook it the milder it gets.
 Whenever you feel like the tamarind has cooked enough, turn off the heat and add coriander leaves.
 
 ### Some stuff I have tried and some stuff I plan to try
