@@ -5,10 +5,10 @@ html {
 }
 
 body {
-  background-color: #181818;
+  /*background-color: #181818;*/
   text-align: left;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: white;
+  /*color: white;*/
 }
 
 h1 {
@@ -25,13 +25,13 @@ h2 {
 
 
 a:link, a:visited, a:active {
-  color: #C9C9C9;
+  color: #145680;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
-  color: white;
+  color: #145680;
   background-color: transparent;
   text-decoration: underline;
 }
